@@ -452,11 +452,11 @@ header{
 @media  (max-width: 400px){
     .intro-section h1{
         padding: 0.5rem;
-        margin: 3rem 0.5rem 2rem 0.5rem;  
+        margin: 3rem 0.5rem 2rem 0rem;  
     }
     .intro-section p{
         padding: 0.5rem;
-        margin: 3rem 0.5rem 2rem 0.5rem;  
+        margin: 3rem 0.5rem 2rem 0rem;  
     }
     .col-1 img{
         width: 18rem;
